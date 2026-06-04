@@ -1,1 +1,1 @@
-nightly
+nightly-402d5c7ee-20260604
